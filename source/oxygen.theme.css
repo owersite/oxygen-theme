@@ -11,9 +11,9 @@
 :root {
     --background-primary: #000019 !important;
     --background-secondary: #0a011c !important;
-    --background-secondary-alt: #000083 !important;
+    --background-secondary-alt: #1f003f  !important;
     --background-tertiary: #000a19 !important;
-    --background-accent: #1b1392 !important;
+    --background-accent: #1f003f  !important;
     --background-floating: black !important; 
     --background-modifier-hover: rgba(255,255,255,0.01) !important;
     --background-modifier-active: rgba(255,255,255,0.03) !important;
